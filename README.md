@@ -6,6 +6,7 @@ There's also a hand-swapped .exe version for people who just want to use WSAD an
 Usage:
 
 Run the script to swap your keys
+
 Close the script in the taskbar or task manager to make your keys normal again
 
 Edit the key written on the left of the two semicolons (::) in order to change what the input is remapped to, and remember to save your ahk file before running again.
