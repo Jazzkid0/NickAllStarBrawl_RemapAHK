@@ -37,5 +37,8 @@ q::x		; Exit
 t::Enter	; Start
 Esc::Esc	; Escape
 
+; Macro to suspend the script
+
+^!z::Suspend,Toggle
 
 ;---------------------------------------
